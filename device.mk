@@ -50,8 +50,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/uinput-fpc.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/uinput-fpc.kl
 
 # Launcher
-PRODUCT_PACKAGES += \
-    Launcher3
+#PRODUCT_PACKAGES += \
+#    Launcher3
 
 # NFC
 PRODUCT_COPY_FILES += \
