@@ -1,1 +1,1 @@
-add_lunch_combo superior_lithium-userdebug
+add_lunch_combo liquid_lithium-userdebug
